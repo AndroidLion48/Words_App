@@ -14,6 +14,10 @@ The app demonstrates the use of Intents in two ways:
 * to navigate inside an app by specifying an explicit destination, and,
 * allowing Android to service the Intent using the apps and resources present on the device.
 
+![Screenshot_Linear_Layout](https://user-images.githubusercontent.com/92341925/200887946-32737c96-1c62-466c-9633-26301fbb2bcb.png)
+![Screenshot_Grid_Layout](https://user-images.githubusercontent.com/92341925/200887997-982fc442-73d7-4333-b400-fb67f54c2d03.png)
+![Screenshot_Details_Activity](https://user-images.githubusercontent.com/92341925/200888015-735d5192-2542-4e0d-8d69-71f9faf36c8c.png)
+
 
 Learning Objectives:
 --------------
